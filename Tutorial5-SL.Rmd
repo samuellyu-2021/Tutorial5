@@ -4,6 +4,7 @@ author: Write your name
 date: 2020-04-23
 output:
   bookdown::html_document2
+<<<<<<< HEAD
 keep_md: true
 
 ---
@@ -35,3 +36,6 @@ geom_line()
 ```
 
 
+=======
+keep_md: true
+>>>>>>> yaml
